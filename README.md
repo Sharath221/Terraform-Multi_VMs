@@ -1,7 +1,7 @@
 # terraform-aws and azure 
 
 terraform-aws
-Check variables in ```hcl input.tfvars ``` apply the required count
+Check variables in ``` input.tfvars ``` apply the required count
 
 ```hcl
 Commands
@@ -11,7 +11,7 @@ Commands
 # terraform destroy --var-file input.tfvars
 ```
 terraform-azure
-Check variables in ```hcl var.tf ``` apply the required count
+Check variables in ``` var.tf ``` apply the required count
 
 ```hcl
 Commands
